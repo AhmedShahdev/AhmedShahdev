@@ -42,7 +42,7 @@
 
 ###
 
-- 🔭 I’m currently working on [DineNear](https://github.com/JaseemKhan211/DineNear-Frontend/tree/master)  
+- 🔭 I’m Recently worked on [DineNear](https://github.com/JaseemKhan211/DineNear-Frontend/tree/master)  
 - 🌱 I’m currently learning **Restful APIs, Database, Deployment on Vercel**  
 - 👯 I’m looking to collaborate on **Flutter and JavaScript-based Projects**  
 - 🤝 I’m looking for help with **Google Map-based Projects**  
