@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Syed Ahmed Shah &mdash; a Web Developer skilled in JavaScript, React.js, Next.js and MongoDB , with a strong foundation in Flutter & Dart.</h2>
+<h2 align="left">Hi 👋! I'm Syed Ahmed Shah &mdash; a Web Developer skilled in JavaScript, Typescript, React.js, Next.js and MongoDB , with a strong foundation in Flutter & Dart.</h2>
 
 ###
 
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/your-link">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:ahmedstudent.shahjee@gmail.com">
+  <a href="mailto:s.ahmedshahdeveloper@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/your-instagram">
