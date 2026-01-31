@@ -14,10 +14,10 @@
 ### 🎓 About Me
 
 - 🚀 Transitioned from **Flutter** to a broader focus in **Web Development**.
-- 💻 Skilled in **JavaScript**, **HTML/CSS**, **React**, and real-world **API Integration**.
+- 💻 Skilled in **JavaScript**, **React.js**, **Next.js**, **MongoDB** and real-world **API Integration**.
 - 🌬️ I love turning complex ideas into practical and user-friendly web applications.
 - 🌟 Passionate about clean UI, functional UX, and scalable frontend code.
-- 👨‍🎓 Final year **CS Undergrad @ SMIU '25**
+- 👨‍🎓 **Computer Science Grad @ SMIU '26**
 
 ---
 
